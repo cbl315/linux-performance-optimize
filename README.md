@@ -1,3 +1,4 @@
 # linux-performance-optimize
 Geektime course practice
-# linux-performance-optimize
+
+- [CPU性能篇](./CPU性能篇/平均负载.md)
